@@ -1,7 +1,7 @@
 Publications
 ============
 
-The below publications is a collection of research papers, book chapters, application notes, poster presentation, and conference talks.
+The publications below are a collection of research papers, book chapters, application notes, poster presentation, and conference talks.
 
 
 ## How To Get Started
