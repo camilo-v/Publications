@@ -32,7 +32,7 @@ If you have any questions regarding any of the papers, please [contact me](mailt
 
 - Clarke B, Valdes C, Dobra A, Clarke J. **A Bayes Testing Approach to Metagenomic Profiling in Bacteria**.  Statistics and Its Interface. [In Press]
 
-- Valdes, C; Capobianco, E. ‘**Methods to detect transcribed pseudogenes: RNA-Seq discovery allows learning through features**.’. Methods in Molecular Biology, Volume 1167, 2014, pp.157–183.
+
 
 ### 2013
 
