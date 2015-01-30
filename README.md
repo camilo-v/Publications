@@ -48,6 +48,13 @@ If you have any questions regarding any of the papers, please [contact me](mailt
 Mathee, K, G Narasimhan, C Valdes, X Qiu, JM Matewish, M Koehrsen, et al., ‘**Dynamics of Pseudomonas aeruginosa genome evolution.**’. in Proceedings of the National Academy of Sciences of the United States of America, 105, 2008, 3100–3105.
 
 
+## Book Chapters
+
+### 2014
+
+- Valdes, C; Capobianco, E. ‘**Methods to detect transcribed pseudogenes: RNA-Seq discovery allows learning through features**.’. Methods in Molecular Biology, Volume 1167, 2014, pp.157–183.
+
+
 
 ## Contact
 
