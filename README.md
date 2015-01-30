@@ -7,8 +7,7 @@ The publications below are a collection of
 - Book Chapters
 - Application Notes
 - Poster Presentations 
-- Conference Talks and 
-- Conference Papers
+- Conference Talks and Papers
 
 
 
