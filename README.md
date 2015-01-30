@@ -4,17 +4,6 @@ Publications
 The publications below are a collection of research papers, book chapters, application notes, poster presentation, and conference talks.
 
 
-## How To Get Started
-
-- [Download the List](https://github.com/camilo-v/Publications/archive/master.zip) zip archive, and extract its contents.
-
-## Communication
-
-The below applies mostly to software code.
-
-- If you **found a bug**, open an issue and _please provide detailed steps to reliably reproduce it_.
-- If you have **feature request**, open an issue.
-- If you **would like to contribute**, please submit a pull request.
 
 ## Research Papers
 
@@ -58,10 +47,19 @@ Mathee, K, G Narasimhan, C Valdes, X Qiu, JM Matewish, M Koehrsen, et al., ‘**
 
 Contact [Camilo Valdes](mailto:cvaldes3@miami.edu) for pull requests, bug reports, good jokes and coffee recipes.
 
+- If you **found a bug**, open an issue and _please provide detailed steps to reliably reproduce it_.
+- If you have **feature request**, open an issue.
+- If you **would like to contribute**, please submit a pull request.
+
 
 ### Maintainers
 
 - [Camilo Valdes](mailto:cvaldes3@miami.edu)
+
+
+### Download
+
+- [Download the List](https://github.com/camilo-v/Publications/archive/master.zip) zip archive, and extract its contents.
 
 
 ## License
