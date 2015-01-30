@@ -6,8 +6,9 @@ The publications below are a collection of
 - Research Papers
 - Book Chapters
 - Application Notes
-- Poster Presentations and 
-- Conference Talks
+- Poster Presentations 
+- Conference Talks and 
+- Conference Papers
 
 
 
