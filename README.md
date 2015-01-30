@@ -1,7 +1,13 @@
 Publications
 ============
 
-The publications below are a collection of research papers, book chapters, application notes, poster presentation, and conference talks.
+The publications below are a collection of 
+
+- Research Papers
+- Book Chapters
+- Application Notes
+- Poster Presentations and 
+- Conference Talks
 
 
 
@@ -57,7 +63,7 @@ Contact [Camilo Valdes](mailto:cvaldes3@miami.edu) for pull requests, bug report
 - [Camilo Valdes](mailto:cvaldes3@miami.edu)
 
 
-### Download
+## Download
 
 - [Download the List](https://github.com/camilo-v/Publications/archive/master.zip) zip archive, and extract its contents.
 
