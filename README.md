@@ -23,14 +23,14 @@ If you have any questions regarding any of the papers, please [contact me](mailt
 
 ### 2015
 
-- A.Marranci, A.Tuccoli, E. Mercoledi, M. Vitiello, C. Valdes, F. Russo, M. Dal Monte, M. Pellegrini, E. Capobianco, N.Tsinoremas, L.Poliseno (2014) **Identification of BRAF 3’UTR Isoforms in Melanoma**. Journal of Investigative Dermatology. [In Press]
+- A.Marranci, A.Tuccoli, E. Mercoledi, M. Vitiello, C. Valdes, F. Russo, M. Dal Monte, M. Pellegrini, E. Capobianco, N.Tsinoremas, L.Poliseno (2014) **Identification of BRAF 3’UTR Isoforms in Melanoma**. The Journal of Investigative Dermatology 135, no. 6 (June 2015): 1694–97. doi:10.1038/jid.2015.47.
 
 
 ### 2014
 
-- Valdes C, Brennan M, Dobra A, Clarke B, Clarke J.  **Detecting Bacterial Genomes in a Metagenomic Sample Using NGS Reads**.  Statistics and Its Interface. [Re-Submitted with Revisions]
+- Valdes C, Brennan M, Dobra A, Clarke B, Clarke J.  **Detecting Bacterial Genomes in a Metagenomic Sample Using NGS Reads**.  Statistics and Its Interface. [In Press]
 
-- Clarke B, Valdes C, Dobra A, Clarke J. **A Bayes Testing Approach to Metagenomic Profiling in Bacteria**.  Statistics and Its Interface. [In Press]
+- Clarke B, Valdes C, Dobra A, Clarke J. **A Bayes Testing Approach to Metagenomic Profiling in Bacteria**.  Statistics and Its Interface. Volume 8, Number 2, pp. 173-185. 2015.
 
 
 
@@ -46,6 +46,11 @@ If you have any questions regarding any of the papers, please [contact me](mailt
 ### 2008
 
 Mathee, K, G Narasimhan, C Valdes, X Qiu, JM Matewish, M Koehrsen, et al., ‘**Dynamics of Pseudomonas aeruginosa genome evolution.**’. in Proceedings of the National Academy of Sciences of the United States of America, 105, 2008, 3100–3105.
+
+
+### 2007
+
+G. Narasimhan, K. Mathee, C. Valdes, E. Zeng, R. Olavarietta, M. Doud, P. Godfrey, M. Koehrsen, A. Rokas, C. Yandava, R. Engels, C. Kodira, B. Birren, J. Galagan, S. Lory. ‘**Comparative Genomics of the Pathogen Pseudomonas aeruginosa**.’ Fifth Annual RECOMB Satellite Workshop on Comparative Genomics, September 16-18, 2007.
 
 
 ## Book Chapters
