@@ -45,12 +45,12 @@ If you have any questions regarding any of the papers, please [contact me](mailt
 
 ### 2008
 
-Mathee, K, G Narasimhan, C Valdes, X Qiu, JM Matewish, M Koehrsen, et al., ‘**Dynamics of Pseudomonas aeruginosa genome evolution.**’. in Proceedings of the National Academy of Sciences of the United States of America, 105, 2008, 3100–3105.
+- Mathee, K, G Narasimhan, C Valdes, X Qiu, JM Matewish, M Koehrsen, et al., ‘**Dynamics of Pseudomonas aeruginosa genome evolution.**’. in Proceedings of the National Academy of Sciences of the United States of America, 105, 2008, 3100–3105.
 
 
 ### 2007
 
-G. Narasimhan, K. Mathee, C. Valdes, E. Zeng, R. Olavarietta, M. Doud, P. Godfrey, M. Koehrsen, A. Rokas, C. Yandava, R. Engels, C. Kodira, B. Birren, J. Galagan, S. Lory. ‘**Comparative Genomics of the Pathogen Pseudomonas aeruginosa**.’ Fifth Annual RECOMB Satellite Workshop on Comparative Genomics, September 16-18, 2007.
+- G. Narasimhan, K. Mathee, C. Valdes, E. Zeng, R. Olavarietta, M. Doud, P. Godfrey, M. Koehrsen, A. Rokas, C. Yandava, R. Engels, C. Kodira, B. Birren, J. Galagan, S. Lory. ‘**Comparative Genomics of the Pathogen Pseudomonas aeruginosa**.’ Fifth Annual RECOMB Satellite Workshop on Comparative Genomics, September 16-18, 2007.
 
 
 ## Book Chapters
